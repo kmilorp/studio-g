@@ -1,0 +1,6 @@
+{
+  "name": "EPM PQRS - Portal Inteligente de Atención Ciudadana",
+  "description": "Sistema oficial inteligente de recepción, radicación y clasificación automatizada con IA para Peticiones, Quejas, Reclamos y Sugerencias de Empresas Públicas de Medellín.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
